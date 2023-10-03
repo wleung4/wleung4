@@ -14,7 +14,7 @@
 
 ### Hi there! 👋
 
-I'm Weyman, a software engineer based in San Francisco. I first got into coding when I took my first computer science course in high school. I ended up deciding to enroll in San Francisco State University as a computer science major. Throughout the years, I really enjoyed the aspect of working with others. From creating documentation to implementing features for projects, I learned several developement methodologies that the industry utilizes. In August 2021, I graduated with a Bachelor of Science in Computer Science. Right after graduating, I was in a situation where I had to take care of my family.
+I'm Weyman, a software engineer based in San Francisco. I first got into coding when I took my first computer science course in high school. I ended up deciding to enroll in San Francisco State University as a computer science major. Throughout the years, I really enjoyed the aspect of working with others. From creating documentation to implementing features for projects, I learned several development methodologies that the industry utilizes. In August 2021, I graduated with a Bachelor of Science in Computer Science. Right after graduating, I was in a situation where I had to take care of my family.
 
 After my family became much healthier, in order to sharpen my skills, I decided to enroll in App Academy, a web development bootcamp in May 2023. While there, I built many projects utlizing technologies such as React, Redux, Javascript, Ruby, Ruby on Rails, Node, Express, PostgreSQL, and MongoDB. I created several projects during this period. This includes: 
 
