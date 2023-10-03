@@ -8,7 +8,9 @@
     <a href="mailto:leungweyman@gmail.com" target='_blank'>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-   
+   <a href="https://wellfound.com/u/weyman-leung">
+      <img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="Wellfound Badge"/>
+    </a>
   </div>
 </div>
 
