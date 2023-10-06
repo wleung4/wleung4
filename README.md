@@ -45,7 +45,7 @@ In my free time, I usually go out with friends to eat out around the Bay Area, p
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   
 </div>
-
+<!--
 ---
 
 <div align="center">
@@ -53,7 +53,7 @@ In my free time, I usually go out with friends to eat out around the Bay Area, p
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wleung4&theme=dark&background=000000)](https://git.io/streak-stats)
   
 </div>
-
+-->
 <!--
 **wleung4/wleung4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
